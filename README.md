@@ -14,6 +14,7 @@
 - Lucas
 - Alexis Daniel
 - Gustavo Machado
+- Renan Trindade
 
 ## Acesso
 
